@@ -6,6 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **QuantumCreditForge** is a plug-and-play Python toolkit for enterprise credit risk intelligence. It combines quantum-enhanced algorithms with classical financial models to assess PD/LGD/EAD, optimize portfolios, run stress tests, and generate Basel III/IV regulatory reports.
+<img width="1914" height="1030" alt="Screenshot 2026-05-30 185049" src="https://github.com/user-attachments/assets/a0764f9e-9d49-4702-84db-a22f05857fab" />
 
 ---
 
@@ -47,6 +48,8 @@ quantum-credit-forge
 
 # CLI demo (fast, classical)
 quantum-credit-forge --cli --classical
+<img width="1324" height="859" alt="Screenshot 2026-05-30 185420" src="https://github.com/user-attachments/assets/8b1dc617-8ede-4902-ad93-07b7d378378e" />
+
 
 # Batch CSV processing
 quantum-credit-forge --batch loans.csv --classical
