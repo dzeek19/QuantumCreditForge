@@ -113,6 +113,9 @@ export TELEGRAM_CHAT_ID="..."
 # CLI flag
 quantum-credit-forge --cli --classical
 
+<img width="1324" height="859" alt="Screenshot 2026-05-30 185420" src="https://github.com/user-attachments/assets/d6d9b078-200f-478d-92c2-a7ff8ebad000" />
+
+
 # Or environment variable
 export QCF_CLASSICAL=1
 python -m quantum_credit_forge --demo
