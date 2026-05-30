@@ -164,6 +164,10 @@ Runs a full portfolio analysis with:
 - Early Warning System scan
 - Vintage cohort analysis
 
+
+<img width="1903" height="945" alt="Screenshot 2026-05-30 190852" src="https://github.com/user-attachments/assets/aa1aee7b-b48f-4012-99e8-fa571c96ea97" />
+
+
 ### Batch CSV Import
 
 ```bash
