@@ -1,0 +1,12 @@
+numpy>=1.24.0
+scipy>=1.10.0
+rich>=13.0.0
+requests>=2.28.0
+openai>=1.0.0
+anthropic>=0.20.0
+
+# Optional dependencies (install separately):
+# pyqpanda3>=0.3.2      # Quantum backend
+# customtkinter>=5.0.0  # GUI
+# pandas>=2.0.0         # Batch CSV import
+# optuna>=3.0.0         # Meta-optimizer
